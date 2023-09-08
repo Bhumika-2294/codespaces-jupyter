@@ -15,6 +15,6 @@ The dataset is available at Kaggle : https://www.kaggle.com/datasets/shreenidhih
 5. VISUALIZING ACTUAL VS PREDICTED DATA
 6. PREDICTING UPCOMING 15 DAYSyter/blob/main/Stocks.py
 
-code link: 
+code link: https://github.com/Bhumika-2294/codespaces-jupyter/blob/main/Stocks.py
 
 **Thank You!**
