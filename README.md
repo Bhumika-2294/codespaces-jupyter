@@ -1,7 +1,20 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+**DATA SCIENCE INTERN** 
+@BHARAT INTERN
+AUTHOR : BHUMIKA RATHORE
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+**TASK 1 : STOCK PREDICTION**
+PURPOSE : TO PREDICT THE STOCK PRICE OF A COMPANY USING LSTM.
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
+The dataset is available at Kaggle : https://www.kaggle.com/datasets/shreenidhihipparagi/google-stock-prediction
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+**STEPS INVOLVED :**
+1 . IMPORTING LIBRARIES AND DATA TO BE USED
+2. GATHERING INSIGHTS
+3. DATA PRE-PROCESSING
+4. CREATING LSTM MODEL
+5. VISUALIZING ACTUAL VS PREDICTED DATA
+6. PREDICTING UPCOMING 15 DAYSyter/blob/main/Stocks.py
+
+code link: 
+
+**Thank You!**
